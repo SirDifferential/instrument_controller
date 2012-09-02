@@ -1,0 +1,1 @@
+This is the Instrument Controller. It is a tool for reading input from a MIDI device and then using that for whatever you need. I use it here for doodling graphics with a GPU.
